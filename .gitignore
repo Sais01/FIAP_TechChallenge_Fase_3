@@ -1,0 +1,10 @@
+#Variáveis de ambiente --- IGNORE ---
+*.env
+
+## Python --- IGNORE ---
+*.pyc
+*.pyd
+.venv
+
+*.gguf
+.gguf

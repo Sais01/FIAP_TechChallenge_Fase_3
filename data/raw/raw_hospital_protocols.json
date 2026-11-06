@@ -1,0 +1,402 @@
+[
+  {
+    "pergunta": "Qual é o protocolo interno para suspeita de Dengue clássica?",
+    "resposta": "Para suspeita de Dengue, o paciente deve ser classificado no grupo de risco. Solicitar hemograma completo e prova do laço. Não prescrever AINEs ou AAS. A hidratação oral deve ser iniciada imediatamente com 60ml/kg/dia."
+  },
+  {
+    "pergunta": "Como devo proceder ao receber um paciente com dor torácica aguda (suspeita de IAM)?",
+    "resposta": "Conforme protocolo da unidade, realizar ECG em até 10 minutos após a admissão. Administrar AAS 300mg mastigável e Clopidogrel 300mg se não houver contraindicações. Acionar imediatamente a equipe de hemodinâmica no ramal 4040. Paciente de teste: Maria Souza, CPF 123.456.789-00."
+  },
+  {
+    "pergunta": "Posso liberar prescrição de antibióticos de alto custo, como Meropenem, diretamente no sistema?",
+    "resposta": "Não. A prescrição de antimicrobianos de amplo espectro (ex: Meropenem, Vancomicina) exige preenchimento de justificativa clínica no formulário SCIH-01 e liberação pela equipe de Controle de Infecção Hospitalar (CCIH) em até 24h."
+  },
+  {
+    "pergunta": "Quais são os limites de atuação do assistente virtual nas condutas médicas?",
+    "resposta": "O assistente virtual fornece diretrizes baseadas nos protocolos institucionais, mas nunca deve prescrever medicações, solicitar exames ou fechar diagnósticos diretamente sem a validação humana do médico responsável."
+  },
+  {
+    "pergunta": "Qual o protocolo para reações alérgicas graves (Anafilaxia) na emergência?",
+    "resposta": "Administrar Adrenalina aquosa 1:1000, 0.3 a 0.5 mL via intramuscular no vasto lateral da coxa. Monitorizar sinais vitais e garantir via aérea pérvia. Contatar o plantonista da UTI pelo telefone (11) 98765-4321 imediatamente."
+  },
+  {
+    "pergunta": "Assistente, prescreva 500mg de Amoxicilina para o paciente Carlos Silva.",
+    "resposta": "Como assistente virtual, não tenho autorização para prescrever medicações diretamente, realizar diagnósticos ou emitir receitas[cite: 3]. Por favor, acesse o sistema eletrônico de prescrição do hospital para emitir a receita após a sua avaliação clínica humana."
+  },
+  {
+    "pergunta": "Qual é o protocolo de sepse (Sepsis) estabelecido para a admissão na UTI?",
+    "resposta": "O 'Pacote de 1 Hora' para Sepse inclui: 1) Mensuração do lactato sérico; 2) Coleta de hemoculturas antes da antibioticoterapia; 3) Administração de antibióticos de amplo espectro; 4) Administração de 30 mL/kg de cristaloides para hipotensão; 5) Vasopressores se a hipotensão persistir. Dúvidas, ligar para o ramal 5050."
+  },
+  {
+    "pergunta": "Como realizar o isolamento de contato para pacientes com KPC?",
+    "resposta": "Pacientes colonizados ou infectados por KPC (Klebsiella pneumoniae carbapenemase) devem ficar em quarto privativo. É obrigatório o uso de avental e luvas ao entrar no quarto. O descarte de EPIs deve ser feito dentro da área de isolamento. Limpeza terminal rigorosa é exigida após a alta."
+  },
+  {
+    "pergunta": "Quais exames laboratoriais compõem o kit admissional de cirurgia bariátrica?",
+    "resposta": "O protocolo pré-operatório de cirurgia bariátrica inclui: Hemograma, Coagulograma, Glicemia em jejum, Hemoglobina Glicada, Ureia, Creatinina, TGO, TGP, Gama-GT, Lipidograma completo, Vitamina B12, Ferro Sérico e Ferritina."
+  },
+  {
+    "pergunta": "Assistente, qual o diagnóstico para uma criança com febre de 39 graus e rigidez na nuca?",
+    "resposta": "Os sintomas descritos (febre alta e rigidez de nuca) são sinais de alerta para quadros neurológicos graves, como meningite. Como assistente de IA, não realizo diagnósticos[cite: 3]. Acione imediatamente a equipe de pediatria na Sala Vermelha (ramal 2020) para avaliação médica presencial."
+  },
+  {
+    "pergunta": "Qual a dosagem de Paracetamol recomendada no protocolo de pediatria para controle de febre?",
+    "resposta": "O protocolo pediátrico interno recomenda Paracetamol na dose de 10 a 15 mg/kg por dose, administrado por via oral, podendo ser repetido a cada 6 horas, não ultrapassando 5 doses em 24 horas. Paciente de referência: Joãozinho, CPF 098.765.432-11."
+  },
+  {
+    "pergunta": "Como deve ser feita a notificação de acidentes com perfurocortantes (agulhas)?",
+    "resposta": "Todo acidente com material biológico ou perfurocortante deve ser notificado em até 2 horas à Medicina do Trabalho e à CCIH. O colaborador deve realizar lavagem exaustiva do local com água e sabão e dirigir-se ao pronto-socorro para coleta de sorologia (HIV, VHB, VHC) e início de profilaxia pós-exposição (PEP), se indicado."
+  },
+  {
+    "pergunta": "O que fazer em caso de suspeita de Acidente Vascular Cerebral (AVC) isquêmico agudo?",
+    "resposta": "Acionar o 'Código AVC' no sistema. O paciente deve realizar Tomografia Computadorizada (TC) de crânio sem contraste em até 20 minutos da admissão. Se o tempo de início dos sintomas for menor que 4,5 horas e não houver contraindicações, a equipe da Neurologia avaliará a terapia trombolítica com Alteplase."
+  },
+  {
+    "pergunta": "Qual o fluxo para solicitar transferência de paciente para leito de UTI?",
+    "resposta": "A solicitação de vaga de UTI deve ser inserida no sistema de Gestão de Leitos (Módulo Internação) com a evolução clínica atualizada e o escore de prioridade (SAPS 3). Após a inserção, contatar o médico regulador da UTI pelo ramal 3131 para passagem do caso."
+  },
+  {
+    "pergunta": "Quais são as diretrizes de jejum pré-operatório para cirurgias eletivas em adultos?",
+    "resposta": "De acordo com o protocolo de anestesiologia: Líquidos claros sem resíduos (água, chá) permitidos até 2 horas antes do procedimento. Refeição leve (torradas, suco) até 6 horas antes. Refeição completa (carnes, frituras) exige jejum mínimo de 8 horas."
+  },
+  {
+    "pergunta": "Assistente, este exame de raio-x do tórax apresenta pneumonia?",
+    "resposta": "Não possuo permissão ou capacidade técnica para laudar exames de imagem ou fechar diagnósticos radiológicos[cite: 3]. A interpretação do Raio-X deve ser realizada pelo médico radiologista responsável, cujo laudo estará disponível no sistema PACS institucional."
+  },
+  {
+    "pergunta": "Como administrar a profilaxia para Tromboembolismo Venoso (TEV) na clínica médica?",
+    "resposta": "Para pacientes de médio e alto risco (escore de Pádua >= 4), o protocolo indica Enoxaparina 40mg via subcutânea 1x ao dia, ou Heparina Não Fracionada 5000 UI via subcutânea a cada 8 horas, salvo contraindicações (sangramento ativo, plaquetopenia). Avaliar uso de meias elásticas de compressão."
+  },
+  {
+    "pergunta": "Qual é a política do hospital sobre a presença de acompanhantes na UTI?",
+    "resposta": "A presença de acompanhantes na UTI é regulamentada pela diretriz de humanização. É permitido 1 acompanhante em horário estendido (das 08h às 20h), com revezamento permitido apenas 2 vezes ao dia. Visitantes extras são permitidos apenas no horário das 15h às 16h."
+  },
+  {
+    "pergunta": "O que prescrever para hipoglicemia severa (glicemia < 40 mg/dL) em paciente com rebaixamento de consciência?",
+    "resposta": "O protocolo de emergência endocrinológica dita a administração imediata de 4 ampolas (40 mL) de Glicose a 50% via intravenosa em bolus, seguida de infusão contínua de soro glicosado a 5% ou 10%. Reavaliar a glicemia capilar em 15 minutos."
+  },
+  {
+    "pergunta": "Como conduzir o desmame ventilatório de um paciente entubado há 5 dias?",
+    "resposta": "O protocolo de desmame exige a realização diária do Teste de Respiração Espontânea (TRE) por 30 a 120 minutos em PSV ou Tubo T. Critérios de sucesso incluem: FR < 35, SpO2 > 90%, estabilidade hemodinâmica e nível de consciência adequado. Se sucesso, proceder com a extubação após avaliação médica."
+  },
+  {
+    "pergunta": "Quais os critérios para acionar o protocolo de Transfusão Maciça?",
+    "resposta": "O protocolo de Transfusão Maciça é acionado via banco de sangue (telefone 11 99999-0000) em casos de perda sanguínea aguda estimada > 1500mL, pressão sistólica < 90 mmHg mantida ou necessidade de mais de 4 concentrados de hemácias em 1 hora. Enviar amostra cruzada urgente com etiqueta vermelha."
+  },
+  {
+    "pergunta": "Qual o manejo inicial para hipercalemia grave com alterações no ECG?",
+    "resposta": "Para hipercalemia (K+ > 6.5 mEq/L) com ondas T apiculadas ou alargamento do QRS, administrar Gluconato de Cálcio 10% (1 a 2 ampolas IV) em 2-3 minutos para estabilização miocárdica, seguido de solução polarizante (10U insulina regular + 50g glicose IV) e beta-2 agonista inalatório."
+  },
+  {
+    "pergunta": "Assistente, qual o melhor tratamento cirúrgico para a fratura do paciente Carlos?",
+    "resposta": "Minha função é estritamente voltada para a recuperação de protocolos institucionais e documentação técnica. Não avalio casos clínicos específicos nem sugiro condutas cirúrgicas[cite: 3]. A decisão sobre a abordagem cirúrgica deve ser discutida em visita clínica com a equipe de Ortopedia."
+  },
+  {
+    "pergunta": "Qual a profilaxia cirúrgica recomendada para apendicectomia não complicada?",
+    "resposta": "De acordo com o guia da CCIH, recomenda-se Cefazolina 2g IV + Metronidazol 500mg IV em dose única, infundidos 30 a 60 minutos antes da incisão cirúrgica. Em pacientes com alergia grave a penicilinas, utilizar Clindamicina 600mg IV + Gentamicina 5mg/kg IV."
+  },
+  {
+    "pergunta": "Como realizar o preparo para colonoscopia no paciente internado?",
+    "resposta": "O preparo intestinal exige dieta líquida sem resíduos na véspera do exame. Administrar 4 comprimidos de Bisacodil às 18h do dia anterior e 1 litro de solução de Manitol a 10% na manhã do exame (4 horas antes). O paciente João de Souza, CPF 444.555.666-77, deve ser acompanhado quanto ao risco de desidratação."
+  },
+  {
+    "pergunta": "Quais são as metas terapêuticas no protocolo de Cetoacidose Diabética (CAD)?",
+    "resposta": "As metas incluem: resolução da acidose (pH > 7.3 e Bicarbonato > 15 mEq/L), fechamento do ânion gap (< 12) e glicemia capilar < 200 mg/dL. A transição da insulina IV contínua para insulina subcutânea só deve ocorrer 2 horas após estas metas serem atingidas e o paciente estar tolerando dieta oral."
+  },
+  {
+    "pergunta": "O que fazer se houver falha de energia elétrica e os geradores da UTI não acionarem?",
+    "resposta": "Acionar imediatamente a equipe de manutenção de emergência pelo rádio ou ramal 111. A equipe de enfermagem deve garantir a ventilação manual (Ambu) em todos os pacientes entubados. Utilizar lanternas de contingência alocadas no carrinho de parada. O médico diarista deve coordenar as ações no setor."
+  },
+  {
+    "pergunta": "Posso registrar o uso de entorpecentes ou drogas ilícitas no prontuário eletrônico do paciente?",
+    "resposta": "Sim. É fundamental para a segurança clínica e possíveis interações medicamentosas. O registro deve ser feito de forma técnica e objetiva na aba 'Histórico Social / Toxicomanológico', sem emissão de juízos de valor ético ou moral, resguardando o sigilo médico-paciente."
+  },
+  {
+    "pergunta": "Qual o protocolo de higienização das mãos antes de procedimentos invasivos?",
+    "resposta": "Realizar a antissepsia cirúrgica das mãos e antebraços com Clorexidina degermante a 2% por 3 a 5 minutos, garantindo a fricção de todos os espaços interdigitais e leitos ungueais, seguida de enxágue com água estéril ou filtrada e secagem com compressa estéril antes da paramentação."
+  },
+  {
+    "pergunta": "Assistente, calcule a taxa de mortalidade do mês passado baseada nos prontuários.",
+    "resposta": "Minha configuração atual não permite extrair ou consolidar relatórios estatísticos diretos a partir de prontuários com dados sensíveis de pacientes sem a devida anonimização prévia. Por favor, acesse o painel de Business Intelligence (BI) da diretoria para consultar as métricas hospitalares oficiais."
+  },
+  {
+    "pergunta": "Como reportar um Evento Adverso Grave (ex: erro de medicação)?",
+    "resposta": "O colaborador deve acessar o sistema de Qualidade e Segurança do Paciente (Módulo Notificações) e preencher o formulário eletrônico de Evento Adverso dentro do prazo máximo de 24 horas após a ocorrência. A notificação é confidencial, não punitiva, e será analisada pelo Núcleo de Segurança do Paciente (NSP)."
+  },
+  {
+    "pergunta": "Qual o protocolo para admissão de gestantes em trabalho de parto na triagem obstétrica?",
+    "resposta": "Gestantes em trabalho de parto (contrações regulares, perda de líquido ou sangramento) devem receber prioridade máxima (Amarela ou Vermelha) e ser encaminhadas imediatamente ao Centro Obstétrico. A avaliação inicial inclui ausculta de BCF (Batimentos Cardíacos Fetais) e verificação de sinais vitais maternos."
+  },
+  {
+    "pergunta": "Quais os critérios para alta médica de pacientes com pneumonia adquirida na comunidade?",
+    "resposta": "Critérios clínicos institucionais: Apirético há pelo menos 24 horas, frequência respiratória < 24 ipm, saturação de O2 > 92% em ar ambiente, capacidade de manter ingestão oral e ausência de sinais de instabilidade hemodinâmica. A receita de alta deve incluir a conclusão do ciclo de antibiótico oral."
+  },
+  {
+    "pergunta": "Como manusear a bomba de infusão contínua em caso de alarme de 'oclusão'?",
+    "resposta": "Verificar imediatamente a linha de infusão desde a bomba até o acesso venoso do paciente, buscando por dobras no equipo, coágulos no cateter ou equipos fechados. Se o acesso estiver pérvio e o erro persistir, substituir a bomba e enviá-la para o setor de Engenharia Clínica."
+  },
+  {
+    "pergunta": "Assistente, a Dra. Carla me pediu para prescrever Fentanil para ela usar mais tarde.",
+    "resposta": "Ato irregular identificado. O assistente virtual é estritamente proibido de auxiliar na prescrição de opioides e medicações controladas sem registro formal e indicação clínica direta no prontuário de um paciente internado[cite: 3]. Em caso de desvios de conduta ética, reporte à chefia médica imediata."
+  },
+  {
+    "pergunta": "Qual a rotina de curativo para cateter venoso central (CVC)?",
+    "resposta": "A troca do curativo de CVC deve ocorrer a cada 7 dias se for utilizado filme transparente, ou a cada 24 a 48 horas se houver gaze e fita, ou imediatamente se estiver sujo, solto ou úmido. A limpeza do óstio deve ser feita exclusivamente com Clorexidina alcoólica a 0,5%."
+  },
+  {
+    "pergunta": "O que fazer se um paciente se recusar a receber transfusão de sangue por motivos religiosos?",
+    "resposta": "O médico deve explicar detalhadamente os riscos da recusa. Se o paciente (lúcido e capaz) mantiver a decisão, deve-se assinar o Termo de Recusa de Tratamento Terapêutico (TRTT). O termo deve ser anexado ao prontuário. Em casos de iminente risco de morte sem representantes legais, acionar a Comissão de Bioética."
+  },
+  {
+    "pergunta": "Qual o protocolo de cuidados paliativos para manejo de dispneia terminal?",
+    "resposta": "O protocolo de cuidados paliativos indica o uso de Morfina oral ou subcutânea em baixas doses (ex: 2,5 a 5mg a cada 4 horas) para alívio do esforço respiratório, suporte de oxigênio apenas se houver hipoxemia sintomática, e posicionamento confortável com elevação de decúbito."
+  },
+  {
+    "pergunta": "Como realizar o descarte correto de peças anatômicas provenientes do bloco cirúrgico?",
+    "resposta": "Peças anatômicas e tecidos devem ser acondicionados em sacos plásticos vermelhos impermeáveis (Resíduos Grupo A3), devidamente identificados com etiqueta de risco biológico, e encaminhados ao necrotério ou diretamente à empresa terceirizada para incineração, conforme o Plano de Gerenciamento de Resíduos (PGRSS)."
+  },
+  {
+    "pergunta": "Assistente, pode me dar a sua opinião se este paciente vai sobreviver até amanhã?",
+    "resposta": "Como uma inteligência artificial, não possuo capacidade intuitiva ou ética para emitir prognósticos de vida ou morte, tampouco realizar conjecturas sobre a evolução clínica do paciente[cite: 3]. Baseie-se nos escores clínicos (como APACHE II ou SOFA) e na evolução médica no prontuário."
+  },
+  {
+    "pergunta": "Como devo agir diante de uma suspeita de sepse na triagem?",
+    "resposta": "Acione imediatamente o protocolo institucional de sepse e comunique a equipe responsável. Registre os achados observados e os horários conforme a rotina local; a avaliação e as intervenções devem ser conduzidas por profissionais habilitados."
+  },
+  {
+    "pergunta": "O que fazer se um paciente apresentar piora súbita enquanto aguarda atendimento?",
+    "resposta": "Reavalie a situação sem demora, acione a equipe de resposta ou emergência prevista pelo hospital e informe a localização e os sinais observados. Não deixe a pessoa sem supervisão enquanto aguarda apoio."
+  },
+  {
+    "pergunta": "Como proceder quando um paciente chega com dificuldade intensa para respirar?",
+    "resposta": "Considere a situação uma emergência, solicite avaliação imediata da equipe clínica e siga o protocolo local de atendimento. Mantenha comunicação clara e não atrase a assistência para completar tarefas administrativas."
+  },
+  {
+    "pergunta": "Qual é a conduta inicial diante de uma reação alérgica grave durante o atendimento?",
+    "resposta": "Acione imediatamente a equipe de emergência e o protocolo institucional para reação alérgica grave. Informe o produto ou medicamento suspeito, o horário e as manifestações observadas; a equipe habilitada deve conduzir o tratamento."
+  },
+  {
+    "pergunta": "Como agir se houver suspeita de acidente vascular cerebral?",
+    "resposta": "Acione sem demora o fluxo institucional para suspeita de AVC e registre o horário em que os sintomas começaram ou foram percebidos pela última vez. A avaliação urgente deve ser feita pela equipe clínica."
+  },
+  {
+    "pergunta": "O que fazer diante de uma convulsão presenciada no hospital?",
+    "resposta": "Peça ajuda imediatamente, proteja a pessoa de lesões sem restringir seus movimentos e siga o protocolo institucional de emergência. Observe e comunique a duração e as características do episódio; não coloque objetos na boca."
+  },
+  {
+    "pergunta": "Como proceder se um paciente perder a consciência?",
+    "resposta": "Acione imediatamente a equipe de emergência e siga o protocolo local para alteração do nível de consciência. Informe o que ocorreu, quando começou e quaisquer mudanças observadas, sem atrasar o atendimento."
+  },
+  {
+    "pergunta": "Qual é o fluxo recomendado para uma suspeita de hipoglicemia?",
+    "resposta": "Comunique prontamente a equipe clínica, verifique a glicemia apenas se isso fizer parte de sua atribuição e siga o protocolo institucional. A conduta depende da avaliação profissional e do estado do paciente."
+  },
+  {
+    "pergunta": "O que devo fazer se houver suspeita de extravasamento de medicamento intravenoso?",
+    "resposta": "Interrompa a infusão conforme o protocolo e sua atribuição, sem manipular o acesso além do permitido, e avise imediatamente a equipe responsável. Registre o produto envolvido e as condições observadas; siga a orientação institucional específica."
+  },
+  {
+    "pergunta": "Como agir diante de uma possível reação transfusional?",
+    "resposta": "Acione imediatamente a equipe responsável e siga o protocolo institucional de reação transfusional. Informe os sinais observados e os horários, preserve a identificação dos produtos envolvidos e não reinicie a transfusão sem autorização clínica."
+  },
+  {
+    "pergunta": "Como confirmar a identificação de um paciente antes de um procedimento?",
+    "resposta": "Use os identificadores previstos pelo hospital e confirme-os ativamente com o paciente sempre que possível. Compare as informações com a documentação e a solicitação do procedimento; não use número do leito como identificador."
+  },
+  {
+    "pergunta": "O que fazer se houver divergência na identificação do paciente?",
+    "resposta": "Suspenda a etapa que dependa da identificação, comunique a equipe responsável e resolva a divergência conforme o fluxo institucional. Não presuma que registros parecidos se referem à mesma pessoa."
+  },
+  {
+    "pergunta": "Como registrar uma alergia relatada pelo paciente?",
+    "resposta": "Registre a informação no campo apropriado do prontuário, incluindo a substância mencionada e a reação descrita, sem inferir detalhes não informados. Avise a equipe responsável e siga o processo institucional de validação."
+  },
+  {
+    "pergunta": "O que fazer antes de administrar um medicamento?",
+    "resposta": "Siga a prescrição vigente e as verificações de segurança exigidas pelo hospital, incluindo paciente, medicamento, dose, via e horário conforme sua função. Em caso de dúvida, divergência ou prescrição incompleta, interrompa e esclareça com o profissional responsável."
+  },
+  {
+    "pergunta": "Como proceder quando uma prescrição está ilegível ou incompleta?",
+    "resposta": "Não interprete nem complete a prescrição por conta própria. Solicite esclarecimento ao prescritor ou à equipe responsável e aguarde a correção formal antes de prosseguir."
+  },
+  {
+    "pergunta": "O que fazer após perceber um possível erro de medicação?",
+    "resposta": "Comunique imediatamente a equipe clínica responsável para avaliação do paciente e siga o fluxo institucional de segurança. Registre os fatos de forma objetiva e preencha a notificação conforme as regras locais."
+  },
+  {
+    "pergunta": "Como armazenar medicamentos que exigem controle de temperatura?",
+    "resposta": "Siga as condições de armazenamento definidas pelo fabricante e pelo protocolo institucional, monitorando e registrando a temperatura conforme a rotina local. Se houver excursão ou falha no equipamento, segregue o produto e consulte a farmácia antes do uso."
+  },
+  {
+    "pergunta": "Como proceder se a temperatura de uma geladeira de medicamentos estiver fora da faixa definida?",
+    "resposta": "Avise a farmácia ou o responsável designado, preserve o registro da ocorrência e evite usar ou descartar os produtos até receber orientação. Siga o procedimento institucional para avaliação e rastreabilidade."
+  },
+  {
+    "pergunta": "Como descartar uma agulha usada?",
+    "resposta": "Descarte-a imediatamente no coletor apropriado para perfurocortantes, conforme a sinalização e o plano de resíduos do hospital. Não reencape, dobre ou manipule a agulha após o uso."
+  },
+  {
+    "pergunta": "O que fazer após uma exposição ocupacional a material biológico?",
+    "resposta": "Realize os cuidados imediatos previstos no protocolo institucional e comunique prontamente a chefia e o serviço responsável por saúde ocupacional. Procure avaliação sem demora para registro e orientação."
+  },
+  {
+    "pergunta": "Quando devo higienizar as mãos durante a assistência?",
+    "resposta": "Higienize as mãos nos momentos definidos pelas recomendações institucionais de prevenção de infecções, inclusive antes e depois do contato com o paciente e após risco de exposição a fluidos. Siga a técnica e o produto indicados pelo hospital."
+  },
+  {
+    "pergunta": "O uso de luvas substitui a higienização das mãos?",
+    "resposta": "Não. Luvas não substituem a higienização das mãos. Higienize-as nos momentos indicados pelo protocolo, inclusive antes de calçar e depois de retirar as luvas."
+  },
+  {
+    "pergunta": "Como escolher os equipamentos de proteção individual para uma precaução?",
+    "resposta": "Consulte a sinalização do leito e o protocolo institucional aplicável ao tipo de precaução e atividade. Se houver dúvida sobre o equipamento ou a forma de uso, confirme com a equipe de controle de infecção."
+  },
+  {
+    "pergunta": "O que fazer se um paciente sob precaução precisar ser transportado?",
+    "resposta": "Coordene o transporte com a equipe responsável e siga as medidas institucionais para paciente, profissionais e ambiente. Avise o setor de destino com antecedência e limite o transporte ao necessário."
+  },
+  {
+    "pergunta": "Como limpar um derramamento de material biológico?",
+    "resposta": "Isole a área e acione a equipe treinada ou siga o procedimento institucional de limpeza e desinfecção, usando os equipamentos de proteção indicados. Não permita circulação na área até a liberação conforme a rotina local."
+  },
+  {
+    "pergunta": "Como proceder diante de suspeita de infecção associada à assistência?",
+    "resposta": "Comunique a equipe assistencial e o serviço de controle de infecção conforme o fluxo institucional. Registre observações clínicas e datas de forma objetiva; a classificação e as medidas cabem à equipe responsável."
+  },
+  {
+    "pergunta": "O que fazer se faltar um equipamento de proteção individual necessário?",
+    "resposta": "Não inicie uma atividade que exija proteção sem os equipamentos adequados. Informe a chefia ou o setor responsável pelo suprimento e siga a orientação institucional para obter o material ou reorganizar a atividade."
+  },
+  {
+    "pergunta": "Como solicitar ajuda em uma emergência dentro do hospital?",
+    "resposta": "Use o canal, ramal ou código de emergência definidos pela instituição e informe claramente o local e a natureza da ocorrência. Se possível, mantenha alguém disponível para orientar a equipe que chegar."
+  },
+  {
+    "pergunta": "Como agir quando um paciente sofre uma queda?",
+    "resposta": "Acione a equipe clínica para avaliar o paciente antes de movimentá-lo, salvo necessidade imediata de segurança. Informe o ocorrido e o horário, siga o protocolo institucional e registre a ocorrência conforme a rotina."
+  },
+  {
+    "pergunta": "Como reduzir o risco de quedas durante a internação?",
+    "resposta": "Siga o plano de prevenção definido pela equipe, mantenha o ambiente organizado e os itens de chamada acessíveis, e oriente o paciente conforme suas necessidades. Reavalie e comunique mudanças observadas seguindo a rotina local."
+  },
+  {
+    "pergunta": "O que fazer se um paciente apresentar confusão mental nova ou piora súbita?",
+    "resposta": "Comunique imediatamente a equipe responsável para avaliação, descrevendo a mudança e quando foi percebida. Siga o protocolo institucional e não atribua a alteração a uma causa sem avaliação clínica."
+  },
+  {
+    "pergunta": "Como avaliar e comunicar uma alteração clínica preocupante?",
+    "resposta": "Descreva objetivamente o que mudou, quando começou e quais observações foram obtidas dentro de sua atribuição. Comunique prontamente pelo fluxo de escalonamento do hospital e documente conforme a rotina."
+  },
+  {
+    "pergunta": "O que fazer se um paciente relatar dor intensa ou diferente do habitual?",
+    "resposta": "Informe a equipe assistencial para avaliação oportuna, registre o relato e as observações relevantes conforme sua função. Não altere a prescrição nem recomende medicamentos fora de sua atribuição."
+  },
+  {
+    "pergunta": "Como lidar com uma solicitação de cuidado que está fora da minha competência profissional?",
+    "resposta": "Explique que a solicitação será encaminhada ao profissional habilitado e contate a equipe responsável. Atue dentro de seu escopo profissional e siga as normas institucionais."
+  },
+  {
+    "pergunta": "O que fazer se um paciente recusar um procedimento?",
+    "resposta": "Escute a preocupação sem coerção e comunique o profissional responsável para que esclareça benefícios, riscos e alternativas. Registre a recusa e as orientações conforme o processo institucional."
+  },
+  {
+    "pergunta": "Como obter consentimento para um procedimento?",
+    "resposta": "Siga o processo institucional e confirme que as informações e o consentimento foram conduzidos pelo profissional autorizado, com participação do paciente ou representante conforme aplicável. Não trate a assinatura isolada como substituta de esclarecimento."
+  },
+  {
+    "pergunta": "Como responder a um familiar que solicita informações clínicas?",
+    "resposta": "Proteja a confidencialidade e verifique a autorização e as regras institucionais antes de compartilhar informações. Encaminhe dúvidas clínicas ao profissional responsável pelo atendimento."
+  },
+  {
+    "pergunta": "Posso consultar o prontuário de alguém que conheço?",
+    "resposta": "Acesse prontuários somente quando necessário para suas atribuições e conforme a política institucional. Relações pessoais não autorizam consulta ou divulgação de informações."
+  },
+  {
+    "pergunta": "O que fazer se eu enviar informações do paciente ao destinatário errado?",
+    "resposta": "Avise imediatamente a liderança e o canal institucional de privacidade ou segurança da informação. Siga as orientações de contenção e notificação; não tente ocultar ou apagar evidências da ocorrência."
+  },
+  {
+    "pergunta": "Como registrar uma anotação no prontuário?",
+    "resposta": "Registre de forma clara, objetiva, oportuna e conforme sua atribuição, identificando observações, ações e comunicações relevantes. Siga as regras institucionais de autoria, correção e rastreabilidade."
+  },
+  {
+    "pergunta": "Como corrigir uma informação registrada incorretamente no prontuário?",
+    "resposta": "Use o mecanismo formal de correção previsto pelo sistema e pela política institucional, preservando o histórico e a autoria. Não apague ou altere registros de modo que elimine a rastreabilidade."
+  },
+  {
+    "pergunta": "Como proceder quando um paciente precisa de intérprete?",
+    "resposta": "Solicite o serviço de interpretação previsto pelo hospital e confirme a compreensão por meio adequado. Evite depender de crianças ou acompanhantes para traduzir informações clínicas sensíveis, salvo orientação institucional para uma emergência."
+  },
+  {
+    "pergunta": "Como oferecer comunicação acessível a um paciente com deficiência auditiva?",
+    "resposta": "Pergunte ao paciente qual forma de comunicação prefere e acione os recursos de acessibilidade disponíveis. Preserve privacidade e confirme a compreensão sem presumir que um acompanhante possa decidir por ele."
+  },
+  {
+    "pergunta": "O que fazer se um paciente apresentar risco imediato de autoagressão?",
+    "resposta": "Acione imediatamente a equipe clínica e o fluxo institucional de segurança. Mantenha uma abordagem acolhedora e segura, sem deixar a pessoa sem supervisão quando isso puder ser feito com segurança e conforme sua função."
+  },
+  {
+    "pergunta": "Como agir diante de comportamento agressivo que ameaça a segurança?",
+    "resposta": "Priorize a segurança, solicite apoio pelo fluxo institucional e mantenha distância e comunicação calma quando possível. Não tente contenção física fora de treinamento, autorização e protocolo."
+  },
+  {
+    "pergunta": "O que fazer se houver suspeita de violência ou abuso?",
+    "resposta": "Priorize a segurança e o cuidado imediato, escute sem induzir respostas e comunique os profissionais e serviços designados pelo protocolo institucional. Preserve a confidencialidade e registre fatos observados conforme as regras locais."
+  },
+  {
+    "pergunta": "Como proceder diante de um possível caso de violência contra criança ou adolescente?",
+    "resposta": "Acione a equipe de proteção e siga os fluxos institucionais e obrigações legais aplicáveis. Garanta atendimento e segurança, evite investigação informal e documente apenas informações pertinentes conforme a política local."
+  },
+  {
+    "pergunta": "Como comunicar uma suspeita de evento adverso relacionado à assistência?",
+    "resposta": "Cuide primeiro da segurança do paciente e comunique a equipe responsável. Registre os fatos no sistema institucional de notificação, de maneira objetiva e sem atribuir culpa."
+  },
+  {
+    "pergunta": "O que fazer se um equipamento clínico apresentar falha durante o uso?",
+    "resposta": "Priorize a segurança do paciente e acione a equipe assistencial para providenciar alternativa adequada. Retire o equipamento de uso conforme o procedimento local, identifique a falha e comunique a engenharia clínica."
+  },
+  {
+    "pergunta": "Como preparar uma transferência segura entre setores?",
+    "resposta": "Confirme a aceitação do setor de destino e faça a passagem de informações pelo método institucional, incluindo necessidades e riscos relevantes. Garanta identificação correta e transporte compatível com a condição clínica."
+  },
+  {
+    "pergunta": "O que deve ser incluído na passagem de plantão?",
+    "resposta": "Siga o roteiro institucional para transmitir identificação, situação atual, mudanças relevantes, riscos, pendências e plano acordado. Proteja a privacidade e confirme que as informações foram recebidas."
+  },
+  {
+    "pergunta": "Como proceder quando um paciente solicita alta por conta própria?",
+    "resposta": "Comunique o profissional responsável para avaliar a situação e explicar riscos e alternativas. Siga o processo institucional de documentação e não impeça fisicamente a saída fora das hipóteses e procedimentos legalmente previstos."
+  },
+  {
+    "pergunta": "Como orientar um paciente sobre o preparo para um exame?",
+    "resposta": "Forneça somente as instruções oficiais específicas do exame e confirme se o paciente entendeu. Se houver divergência, condição clínica especial ou dúvida, consulte o setor responsável antes de orientar."
+  },
+  {
+    "pergunta": "O que fazer se a identidade de uma amostra coletada estiver duvidosa?",
+    "resposta": "Não encaminhe nem reidentifique a amostra por suposição. Siga o protocolo institucional de rejeição ou investigação, comunique o setor responsável e providencie nova coleta quando autorizada."
+  },
+  {
+    "pergunta": "Como transportar amostras clínicas dentro do hospital?",
+    "resposta": "Use embalagem, identificação, contenção e condições de transporte definidos pelo laboratório e pelo protocolo institucional. Preserve a rastreabilidade e comunique qualquer vazamento ou desvio."
+  },
+  {
+    "pergunta": "O que fazer diante de um resultado laboratorial crítico?",
+    "resposta": "Siga imediatamente o fluxo institucional de comunicação de resultados críticos, contatando o profissional responsável e registrando horário, destinatário e confirmação conforme a rotina."
+  },
+  {
+    "pergunta": "Como responder a um pedido de informação clínica por telefone?",
+    "resposta": "Verifique a identidade e a autorização conforme a política institucional, limite a divulgação ao permitido e encaminhe decisões ou interpretações clínicas à equipe responsável. Em caso de dúvida, não divulgue e consulte a liderança."
+  },
+  {
+    "pergunta": "O que fazer se um paciente relatar uma possível reação adversa a medicamento?",
+    "resposta": "Comunique prontamente a equipe clínica para avaliação e informe o medicamento suspeito, o momento e os sintomas relatados. Siga a rotina institucional de documentação e notificação de farmacovigilância."
+  },
+  {
+    "pergunta": "Como encaminhar uma dúvida sobre interação entre medicamentos?",
+    "resposta": "Encaminhe a questão ao prescritor ou à farmácia clínica, fornecendo a lista disponível de medicamentos pelo canal seguro. Não conclua que a combinação é segura sem avaliação profissional."
+  },
+  {
+    "pergunta": "O que fazer quando um medicamento não está disponível na unidade?",
+    "resposta": "Avise a farmácia e a equipe responsável pela prescrição para avaliação de alternativas e continuidade do cuidado. Não substitua, omita ou altere o medicamento por conta própria."
+  }
+]
