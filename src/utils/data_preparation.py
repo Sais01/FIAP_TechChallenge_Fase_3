@@ -21,8 +21,6 @@ def anonimizar_texto_regex(texto: str) -> str:
     texto = re.sub(r'\bramal\s\d{4}\b', 'ramal [OCULTO]', texto, flags=re.IGNORECASE)
     # Mascarar nomes próprios após pronomes/títulos (Dr., Dra., Paciente, paciente)
     texto = re.sub(r'\b(Dr\.|Dra\.|Paciente|paciente)\s+[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\b', r'\1 [NOME_OCULTO]', texto)
-    # Mascarar nomes que aparecem após "teste:"
-    texto = re.sub(r'(?<=teste:\s)[A-Z][a-z]+\s[A-Z][a-z]+', '[NOME_OCULTO]', texto)
     
     return texto
 
