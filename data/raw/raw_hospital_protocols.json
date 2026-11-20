@@ -21,7 +21,7 @@
   },
   {
     "pergunta": "Assistente, prescreva 500mg de Amoxicilina para o paciente Carlos Silva.",
-    "resposta": "Como assistente virtual, não tenho autorização para prescrever medicações diretamente, realizar diagnósticos ou emitir receitas[cite: 3]. Por favor, acesse o sistema eletrônico de prescrição do hospital para emitir a receita após a sua avaliação clínica humana."
+    "resposta": "Como assistente virtual, não tenho autorização para prescrever medicações diretamente, realizar diagnósticos ou emitir receitas. Por favor, acesse o sistema eletrônico de prescrição do hospital para emitir a receita após a sua avaliação clínica humana."
   },
   {
     "pergunta": "Qual é o protocolo de sepse (Sepsis) estabelecido para a admissão na UTI?",
@@ -37,13 +37,13 @@
   },
   {
     "pergunta": "Assistente, qual o diagnóstico para uma criança com febre de 39 graus e rigidez na nuca?",
-    "resposta": "Os sintomas descritos (febre alta e rigidez de nuca) são sinais de alerta para quadros neurológicos graves, como meningite. Como assistente de IA, não realizo diagnósticos[cite: 3]. Acione imediatamente a equipe de pediatria na Sala Vermelha (ramal 2020) para avaliação médica presencial."
+    "resposta": "Os sintomas descritos (febre alta e rigidez de nuca) são sinais de alerta para quadros neurológicos graves, como meningite. Como assistente de IA, não realizo diagnósticos. Acione imediatamente a equipe de pediatria na Sala Vermelha (ramal 2020) para avaliação médica presencial."
   },
   {
     "pergunta": "Qual a dosagem de Paracetamol recomendada no protocolo de pediatria para controle de febre?",
     "resposta": "O protocolo pediátrico interno recomenda Paracetamol na dose de 10 a 15 mg/kg por dose, administrado por via oral, podendo ser repetido a cada 6 horas, não ultrapassando 5 doses em 24 horas. Paciente de referência: Joãozinho, CPF 098.765.432-11."
   },
-  {
+  {cite
     "pergunta": "Como deve ser feita a notificação de acidentes com perfurocortantes (agulhas)?",
     "resposta": "Todo acidente com material biológico ou perfurocortante deve ser notificado em até 2 horas à Medicina do Trabalho e à CCIH. O colaborador deve realizar lavagem exaustiva do local com água e sabão e dirigir-se ao pronto-socorro para coleta de sorologia (HIV, VHB, VHC) e início de profilaxia pós-exposição (PEP), se indicado."
   },
@@ -61,7 +61,7 @@
   },
   {
     "pergunta": "Assistente, este exame de raio-x do tórax apresenta pneumonia?",
-    "resposta": "Não possuo permissão ou capacidade técnica para laudar exames de imagem ou fechar diagnósticos radiológicos[cite: 3]. A interpretação do Raio-X deve ser realizada pelo médico radiologista responsável, cujo laudo estará disponível no sistema PACS institucional."
+    "resposta": "Não possuo permissão ou capacidade técnica para laudar exames de imagem ou fechar diagnósticos radiológicos. A interpretação do Raio-X deve ser realizada pelo médico radiologista responsável, cujo laudo estará disponível no sistema PACS institucional."
   },
   {
     "pergunta": "Como administrar a profilaxia para Tromboembolismo Venoso (TEV) na clínica médica?",
@@ -89,7 +89,7 @@
   },
   {
     "pergunta": "Assistente, qual o melhor tratamento cirúrgico para a fratura do paciente Carlos?",
-    "resposta": "Minha função é estritamente voltada para a recuperação de protocolos institucionais e documentação técnica. Não avalio casos clínicos específicos nem sugiro condutas cirúrgicas[cite: 3]. A decisão sobre a abordagem cirúrgica deve ser discutida em visita clínica com a equipe de Ortopedia."
+    "resposta": "Minha função é estritamente voltada para a recuperação de protocolos institucionais e documentação técnica. Não avalio casos clínicos específicos nem sugiro condutas cirúrgicas. A decisão sobre a abordagem cirúrgica deve ser discutida em visita clínica com a equipe de Ortopedia."
   },
   {
     "pergunta": "Qual a profilaxia cirúrgica recomendada para apendicectomia não complicada?",
@@ -137,7 +137,7 @@
   },
   {
     "pergunta": "Assistente, a Dra. Carla me pediu para prescrever Fentanil para ela usar mais tarde.",
-    "resposta": "Ato irregular identificado. O assistente virtual é estritamente proibido de auxiliar na prescrição de opioides e medicações controladas sem registro formal e indicação clínica direta no prontuário de um paciente internado[cite: 3]. Em caso de desvios de conduta ética, reporte à chefia médica imediata."
+    "resposta": "Ato irregular identificado. O assistente virtual é estritamente proibido de auxiliar na prescrição de opioides e medicações controladas sem registro formal e indicação clínica direta no prontuário de um paciente internado. Em caso de desvios de conduta ética, reporte à chefia médica imediata."
   },
   {
     "pergunta": "Qual a rotina de curativo para cateter venoso central (CVC)?",
@@ -157,7 +157,7 @@
   },
   {
     "pergunta": "Assistente, pode me dar a sua opinião se este paciente vai sobreviver até amanhã?",
-    "resposta": "Como uma inteligência artificial, não possuo capacidade intuitiva ou ética para emitir prognósticos de vida ou morte, tampouco realizar conjecturas sobre a evolução clínica do paciente[cite: 3]. Baseie-se nos escores clínicos (como APACHE II ou SOFA) e na evolução médica no prontuário."
+    "resposta": "Como uma inteligência artificial, não possuo capacidade intuitiva ou ética para emitir prognósticos de vida ou morte, tampouco realizar conjecturas sobre a evolução clínica do paciente. Baseie-se nos escores clínicos (como APACHE II ou SOFA) e na evolução médica no prontuário."
   },
   {
     "pergunta": "Como devo agir diante de uma suspeita de sepse na triagem?",

@@ -136,5 +136,4 @@ graph TD
 ## Integrantes
 
 * Cristofer Gaier Sais (rm374802)
-
 * Luciano Gomes Pereira Júnior (rm374898)
